@@ -1,0 +1,2 @@
+# Analysis-Using-Metasploit-for-performing-Network-Scan-On-My-IP-Address-Utilizing-Nmap
+This report details a Metasploit-driven Nmap scan on my IP using `-sC`, `-sV`, and `-vv` options. It highlights reconnaissance, service/version detection, script execution, and verbose output integration into Metasploit. Findings showed no open ports or vulnerabilities, supporting secure risk assessment and remediation planning.
